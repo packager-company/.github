@@ -1,12 +1,4 @@
-## Hi there 👋
+# Packager System
+<img width="350" alt="Packager Company Logo" src="https://github.com/packager-company/.github/assets/69869135/3f08fade-748a-4daf-9a64-cb7849326617">
 
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The purpose of the new system of the company 90-Minutos is to perform a complete migration of the current system in order to improve its operability and overcome its limitations. The goal is to implement a robust technological solution that meets the company's requirements, guaranteeing speed and efficiency in service, as well as customer satisfaction.
